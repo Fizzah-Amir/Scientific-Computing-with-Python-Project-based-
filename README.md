@@ -5,6 +5,7 @@ Implementation of Caesar cipher encryption/decryption algorithm
 String manipulation techniques
 Character shifting and wrapping
 Encryption and decryption functions
+
 2.Luhn Algorithm (Card Number Validity)
 Credit card number validator using the Luhn algorithm (mod-10 algorithm).
 Checksum calculation
