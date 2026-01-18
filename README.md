@@ -2,6 +2,7 @@
 Collection of  begiinner scientific computing projects and algorithms implemented in Python  focusing on  computational problem-solving and critical thinking
 Projects
                                                                1. Caesar Cipher using Strings
+                                                               
 Implementation of Caesar cipher encryption/decryption algorithm 
 String manipulation techniques
 Character shifting and wrapping
